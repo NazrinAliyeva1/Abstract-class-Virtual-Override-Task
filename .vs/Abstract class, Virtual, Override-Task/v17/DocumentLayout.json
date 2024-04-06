@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\Abstract class, Virtual, Override-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1017DAE-7165-4C20-A442-3B56BD8DDC7E}|Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task.csproj|c:\\users\\99455\\source\\repos\\abstract class, virtual, override-task\\abstract class, virtual, override-task\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1017DAE-7165-4C20-A442-3B56BD8DDC7E}|Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task.csproj|solutionrelative:abstract class, virtual, override-task\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1017DAE-7165-4C20-A442-3B56BD8DDC7E}|Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task.csproj|c:\\users\\99455\\source\\repos\\abstract class, virtual, override-task\\abstract class, virtual, override-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1017DAE-7165-4C20-A442-3B56BD8DDC7E}|Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task.csproj|solutionrelative:abstract class, virtual, override-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1017DAE-7165-4C20-A442-3B56BD8DDC7E}|Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task.csproj|c:\\users\\99455\\source\\repos\\abstract class, virtual, override-task\\abstract class, virtual, override-task\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1017DAE-7165-4C20-A442-3B56BD8DDC7E}|Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task.csproj|solutionrelative:abstract class, virtual, override-task\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1017DAE-7165-4C20-A442-3B56BD8DDC7E}|Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task.csproj|c:\\users\\99455\\source\\repos\\abstract class, virtual, override-task\\abstract class, virtual, override-task\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1017DAE-7165-4C20-A442-3B56BD8DDC7E}|Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task.csproj|solutionrelative:abstract class, virtual, override-task\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task\\Models\\Bicycle.cs",
+              "RelativeDocumentMoniker": "Abstract class, Virtual, Override-Task\\Models\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task\\Models\\Bicycle.cs",
+              "RelativeToolTip": "Abstract class, Virtual, Override-Task\\Models\\Bicycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:54:22.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Abstract class, Virtual, Override-Task\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task\\Models\\Car.cs",
+              "RelativeToolTip": "Abstract class, Virtual, Override-Task\\Models\\Car.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwCgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:48:26.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Abstract class, Virtual, Override-Task\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Abstract class, Virtual, Override-Task\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAADwvyYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:36:38.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract class, Virtual, Override-Task\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Abstract class, Virtual, Override-Task\\Abstract class, Virtual, Override-Task\\Program.cs",
+              "RelativeToolTip": "Abstract class, Virtual, Override-Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:35:41.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
